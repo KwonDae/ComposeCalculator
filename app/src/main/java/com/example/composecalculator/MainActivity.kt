@@ -38,6 +38,8 @@ class MainActivity : ComponentActivity() {
                         .fillMaxHeight()
                         .background(MediumGray)
                         .padding(16.dp)
+
+
                 )
 
             }
